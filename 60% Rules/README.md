@@ -14,4 +14,4 @@ Sebelum mengambil keputusan untuk membeli sebuah coin, pastikan dari semua aspek
 
 60% rules memberikan guideline yang komplit dan tepat terkait pengambilan keputusan ketika berinvestasi.
 
-<img align="center" src="" />
+<img align="center" src="https://github.com/AXV-International/Cryptocurrency/blob/775a8283fec0e18c27f5b6cd76fd296427624a9e/60%25%20Rules/1_5.png" />
