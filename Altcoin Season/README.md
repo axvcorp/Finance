@@ -9,3 +9,5 @@ Salah satu indikasi terjadinya Altseason adalah kenaikan dari Ethereum yang meru
 Secara teknikal Altseason ditunjukkan melalui grafik  main market yang berada di fase distribusi sedanngkan exotic market (Ditandai dengan TOTAL 3) mengalami kenaikan yang signifikan.
 
 Hal yang bisa memaksimalkan keuntungan kita ketika Altseason adalah berinvestasi di asset dengan naratif yang sedang trending.
+
+<img align="center" src="https://github.com/AXV-International/Cryptocurrency/blob/7c9f8d60608752d0a0b9057d9e3e83083cd32ceb/Altcoin%20Season/1_5.png" />
