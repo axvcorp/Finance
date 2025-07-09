@@ -1,1 +1,3 @@
-Sc: Akademi Crypto ID
+Sc: 
+- Akademi Crypto ID
+- Indodax
